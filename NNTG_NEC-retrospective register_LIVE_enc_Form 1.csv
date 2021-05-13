@@ -1,0 +1,81 @@
+DATEBRTH;SEX;PATNO;DATEDIAG;DATEMET;PRIMTUM;PRTUMRES;DATESURG;NONE;SURGMET;RADTHRPY;SMOKHAB;STRPTCYT;SANDOSTN;PROTHRCA;INTRFERN;OTHRPRTH;MORPH;KI67;CGA1;SYNAPTOF;OCTREO;TISSUEBL;LIVER;LYMPHNDS;LUNG;BONE;PERFSTAT;OTHRORGM;BRAIN;BMI;HORMSYMP;DATESYMP;CARSYNDR
+01mar1942;Male;4001;20sep2006;20sep2006;Gastric;No;;Yes;No;No;Ex-Smoker;No;No;No;No;No;Small Cell Carcinoma;95;Negative;Strongly Positive;Not Done;Yes;Yes;Yes;Yes;Yes;WHO 1;No;No;30;No;;No
+03mar1940;Female;4003;29sep2006;29sep2006;Other;No;;No;No;No;Non-Smoker;No;No;No;No;Yes;Small Cell Carcinoma;;Not Done;Not Done;Not Done;Yes;Yes;Yes;Yes;Yes;WHO 1;No;No;32;No;;No
+03may1953;Male;4004;01dec2006;01dec2006;Colon;Yes;01dec2006;Yes;No;No;Smoker;No;No;No;No;No;Large Cell Carcinoma;95;Partly Positive;Partly Positive;Not Done;Yes;Yes;No;No;No;WHO 0;No;No;24;No;;No
+05oct1936;Female;4005;04may2005;06jun2005;Other;Yes;04may2005;Yes;No;No;Smoker;No;No;Yes;No;No;Large Cell Carcinoma;80;Partly Positive;Negative;Negative;Yes;No;No;No;No;WHO 0;Yes;No;24;No;;No
+06nov1966;Male;4006;17jul2003;17jul2003;Pancreas;No;;No;Yes;Yes;Unknown;No;No;No;No;Yes;Small Cell Carcinoma;40;Strongly Positive;Strongly Positive;Negative;Yes;Yes;No;No;Yes;WHO 1;No;No;23;No;;No
+10may1962;Female;4007;25sep2006;25sep2006;Rectum;No;;Yes;No;No;Unknown;No;No;No;No;No;Small Cell Carcinoma;90;Partly Positive;Partly Positive;Not Done;Yes;No;Yes;No;No;WHO 3;No;No;28;No;;No
+12aug1939;Female;4008;09sep2005;09sep2005;Other;No;;No;No;Yes;Unknown;No;No;Yes;No;Yes;Small Cell Carcinoma;100;Negative;Strongly Positive;Not Done;Yes;Yes;No;No;No;WHO 2;No;No;26;No;;No
+13jul1936;Male;4009;02may2007;02may2007;Other;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;NA (Not Applicable);60;Partly Positive;Strongly Positive;Pos. > Liver;Yes;Yes;No;No;No;WHO 1;No;No;30;No;;No
+13nov1954;Female;4010;03may2006;03may2006;Unknown;No;;Yes;No;No;Unknown;No;No;Yes;No;No;Large Cell Carcinoma;100;Strongly Positive;Strongly Positive;Negative;Yes;No;No;No;No;WHO 0;Yes;No;23;No;;No
+15feb1954;Male;4011;08dec2006;08dec2006;Unknown;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;Large Cell Carcinoma;50;Partly Positive;Partly Positive;Pos. < Liver;Yes;No;Yes;No;No;WHO 0;No;No;30;No;;No
+17may1947;Male;4012;26sep2005;26sep2005;Pancreas;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;NA (Not Applicable);90;Partly Positive;Partly Positive;Pos. < Liver;Missing/NA;No;Yes;No;No;WHO 0;No;No;25;No;;No
+18sep1942;Male;4013;26nov2004;26nov2004;Rectum;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;Small Cell Carcinoma;25;Strongly Positive;Strongly Positive;Pos. > Liver;Yes;Yes;Yes;No;No;WHO 0;No;No;30;No;;No
+23nov1958;Male;4014;12dec2003;21apr2004;Rectum;Yes;12dec2003;Yes;No;No;Non-Smoker;No;No;No;No;No;Small Cell Carcinoma;90;Partly Positive;Negative;Negative;Yes;No;Yes;No;No;WHO 0;No;No;25;No;;No
+04mar1950;Female;4015;15sep2004;15sep2004;Unknown;No;;No;No;Yes;Ex-Smoker;No;No;Yes;No;Yes;Small Cell Carcinoma;90;Negative;Partly Positive;Not Done;Yes;Yes;Yes;No;No;WHO 1;No;No;21;No;;No
+23nov1960;Male;4016;26jan2005;26jan2005;Rectum;No;;Yes;No;No;Smoker;No;No;No;No;No;Large Cell Carcinoma;80;Partly Positive;Partly Positive;Negative;Missing/NA;No;Yes;No;No;WHO 1;No;No;21;No;;No
+27oct1975;Female;4017;11jan2006;11jan2006;Rectum;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;Small Cell Carcinoma;80;Partly Positive;Strongly Positive;Not Done;Yes;Yes;Yes;Yes;No;WHO 0;No;No;31;No;;No
+28aug1969;Female;4018;09jun2006;09jun2006;Unknown;No;;Yes;No;No;Smoker;No;No;No;No;No;Large Cell Carcinoma;90;Strongly Positive;Strongly Positive;Not Done;Yes;Yes;No;Yes;Yes;WHO 2;No;No;20;No;;No
+30jul1962;Female;4019;04dec2006;04dec2006;Rectum;Yes;04dec2006;Yes;No;No;Unknown;No;No;No;No;No;Small Cell Carcinoma;80;Strongly Positive;Strongly Positive;Not Done;Yes;Yes;No;Yes;No;WHO 1;Yes;No;23;No;;No
+31jul1967;Female;4020;17sep2007;17sep2007;Unknown;Yes;17sep2007;Yes;Yes;No;Non-Smoker;No;No;No;No;No;Large Cell Carcinoma;25;Strongly Positive;Strongly Positive;Not Done;Yes;No;Yes;No;No;WHO 0;Yes;No;20;No;;No
+25may1949;Male;4024;04nov2008;04nov2008;Unknown;No;;Yes;No;No;Ex-Smoker;No;No;No;No;No;Large Cell Carcinoma;30;Strongly Positive;Strongly Positive;Not Done;Yes;Yes;Yes;No;Yes;WHO 1;Yes;No;23;No;;No
+01feb1946;Female;6001;19dec2002;19dec2002;Unknown;No;;Yes;Yes;No;Smoker;No;No;No;No;No;Small Cell Carcinoma;80;Strongly Positive;Strongly Positive;Negative;Yes;Yes;Yes;No;No;WHO 0;No;Yes;25;No;;No
+02sep1938;Female;6002;19dec2002;19dec2002;Unknown;Yes;22apr2003;No;Yes;No;Non-Smoker;No;Yes;No;No;No;Large Cell Carcinoma;30;Strongly Positive;Strongly Positive;Pos. > Liver;Yes;Yes;Yes;Yes;No;WHO 0;No;No;22;Yes;15jan2003;No
+22feb1937;Female;6003;22may1995;09aug2001;Pancreas;Yes;22may1995;No;Yes;Yes;Unknown;No;Yes;No;No;No;Large Cell Carcinoma;50;Strongly Positive;Not Done;Pos. > Liver;Yes;Yes;No;No;Yes;WHO 1;No;No;19;No;;No
+08feb1948;Female;6004;20apr2007;20apr2007;Colon;Yes;20apr2007;Yes;Yes;No;Unknown;No;No;No;No;No;Large Cell Carcinoma;60;Negative;Negative;Negative;Yes;Yes;Yes;No;Yes;WHO 1;No;No;21;No;;No
+21aug1963;Female;6006;14nov2007;14nov2007;Colon;Yes;14nov2007;Yes;No;No;Unknown;No;No;No;No;No;Small Cell Carcinoma;50;Partly Positive;Partly Positive;Not Done;Yes;Yes;No;No;No;WHO 1;No;No;20;No;;No
+31jul1952;Female;6007;22feb2008;22feb2008;Colon;No;;Yes;No;No;Smoker;No;No;No;No;No;Small Cell Carcinoma;90;Negative;Partly Positive;Not Done;No;Yes;Yes;No;No;WHO 1;No;No;26;No;;No
+22jul1972;Male;6008;28feb2008;28feb2008;Rectum;No;;No;No;Yes;Unknown;No;No;No;No;No;Large Cell Carcinoma;50;Partly Positive;Partly Positive;Not Done;Yes;No;Yes;No;Yes;WHO 1;No;No;18;No;;No
+23jul1933;Female;6009;21apr2008;21apr2008;Gastric;No;;Yes;No;No;Unknown;No;No;No;No;No;Large Cell Carcinoma;30;Partly Positive;Negative;Pos. > Liver;Yes;Yes;Yes;No;No;WHO 1;No;No;27;Yes;15nov2007;No
+20aug1973;Female;8001;15feb2005;15feb2005;Pancreas;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;Large Cell Carcinoma;20;Strongly Positive;Strongly Positive;Pos. > Liver;Yes;Yes;No;No;No;WHO 0;No;No;20;No;;No
+16mar1942;Female;8002;22sep2006;22sep2006;Pancreas;No;;No;No;No;Non-Smoker;Yes;No;No;No;No;Small Cell Carcinoma;21;Partly Positive;Partly Positive;Pos. > Liver;Yes;No;No;No;No;WHO 0;Yes;No;25;No;;No
+17jan1945;Male;8003;01jun2005;01jun2005;Other;No;;Yes;No;No;Smoker;No;No;No;No;No;Large Cell Carcinoma;18;Strongly Positive;Partly Positive;Negative;Missing/NA;Yes;No;No;No;WHO 1;Yes;No;;Yes;15apr2005;Yes
+23nov1942;Male;8004;22jul2002;22jul2002;Pancreas;Yes;23jul2002;No;Yes;No;Non-Smoker;Yes;No;No;No;Yes;Large Cell Carcinoma;30;Strongly Positive;Strongly Positive;Pos. < Liver;Yes;Yes;Yes;No;No;WHO 0;Yes;Yes;21;Yes;05apr2002;No
+18aug1960;Male;8005;13dec2004;13dec2004;Unknown;No;;Yes;No;No;Ex-Smoker;No;No;No;No;No;Large Cell Carcinoma;70;Strongly Positive;Strongly Positive;Negative;Yes;No;No;No;No;WHO 0;Yes;No;20;No;;No
+10nov1948;Female;8101;30jul2009;30jul2009;Colon;Yes;30jul2009;Yes;No;No;Unknown;No;No;No;No;No;Large Cell Carcinoma;70;Partly Positive;Strongly Positive;Not Done;Yes;Yes;No;No;No;WHO 0;No;No;25;No;;No
+18jan1941;Male;8102;12mar2009;12mar2009;Pancreas;No;;Yes;No;No;Unknown;No;No;No;No;No;Small Cell Carcinoma;50;Partly Positive;Strongly Positive;Not Done;Yes;Yes;No;No;No;WHO 0;No;No;23;No;;No
+23nov1948;Female;8103;07sep2008;20oct2008;Other;Yes;07sep2008;Yes;Yes;No;Non-Smoker;No;No;No;No;No;Small Cell Carcinoma;90;Partly Positive;Partly Positive;Not Done;No;Yes;No;No;No;WHO 0;No;No;28;No;;No
+27nov1938;Male;8104;02mar2009;02mar2009;Pancreas;No;;Yes;No;No;Unknown;No;No;No;No;No;Large Cell Carcinoma;50;Strongly Positive;Strongly Positive;Pos. > Liver;Yes;Yes;No;No;No;WHO 0;No;No;25;No;;No
+29jan1937;Female;8105;15jan2009;15jan2009;Colon;Yes;27jan2009;Yes;No;No;Smoker;No;No;No;No;No;Large Cell Carcinoma;80;Partly Positive;Strongly Positive;Not Done;Yes;No;Yes;No;No;WHO 0;No;No;20;No;;No
+19nov1954;Male;8106;13feb2010;13feb2010;Colon;Yes;13feb2010;Yes;No;No;Ex-Smoker;No;No;No;No;No;Small Cell Carcinoma;40;Partly Positive;Strongly Positive;Not Done;Yes;No;Yes;No;No;WHO 0;No;No;25;No;;No
+21apr1952;Male;8107;18feb2010;18feb2010;Rectum;No;;Yes;No;No;Smoker;No;No;Yes;No;No;Small Cell Carcinoma;95;Negative;Partly Positive;Not Done;No;No;Yes;No;No;WHO 0;No;No;23;No;;No
+16jun1973;Female;8108;22jun2011;22jun2011;Unknown;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;Large Cell Carcinoma;36;Strongly Positive;Partly Positive;Not Done;Yes;Yes;Yes;No;No;WHO 1;Yes;No;31;No;;No
+25jul1952;Male;8109;28feb2011;28feb2011;Colon;No;;Yes;No;No;Unknown;No;No;No;No;No;Small Cell Carcinoma;95;Negative;Strongly Positive;Not Done;No;Yes;Yes;No;No;WHO 0;No;No;26;No;;No
+25aug1943;Female;8110;05nov2010;05nov2010;Unknown;No;;Yes;No;No;Ex-Smoker;No;No;No;No;No;Small Cell Carcinoma;100;Partly Positive;Strongly Positive;Negative;Yes;No;Yes;No;No;WHO 0;No;No;42;No;;No
+28aug1942;Male;8111;10mar2011;10mar2011;Esofagus;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;Small Cell Carcinoma;96;Negative;Strongly Positive;Not Done;Yes;No;Yes;No;No;WHO 0;No;No;28;No;;No
+09oct1978;Male;8112;24jan2009;24jan2009;Rectum;Yes;25may2009;Yes;Yes;No;Non-Smoker;No;No;No;No;No;Small Cell Carcinoma;98;Negative;Strongly Positive;Not Done;No;Yes;Yes;No;No;WHO 0;No;No;24;No;;No
+16sep1936;Female;8113;30mar2011;30mar2011;Pancreas;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;Small Cell Carcinoma;90;Not Done;Partly Positive;Not Done;No;Yes;No;No;No;WHO 1;No;No;23;No;;No
+08sep1960;Female;8114;31jan2011;31jan2011;Pancreas;No;;Yes;No;No;Smoker;No;No;No;No;No;Other;45;Partly Positive;Strongly Positive;Pos. > Liver;Yes;No;Yes;No;No;WHO 0;No;No;24;No;;No
+14jan1931;Female;8115;05may2009;05may2009;Pancreas;No;;No;No;No;Non-Smoker;Yes;Yes;No;No;No;Other;40;Strongly Positive;Strongly Positive;Pos. > Liver;Yes;Yes;No;No;No;WHO 1;No;No;20;Yes;01jan2009;Yes
+08feb1944;Male;8117;17nov2010;17nov2010;Pancreas;No;;No;No;No;Ex-Smoker;Yes;No;Yes;No;Yes;Other;40;Strongly Positive;Strongly Positive;Pos. > Liver;Yes;Yes;No;No;No;WHO 2;No;No;27;No;;No
+31jan1945;Male;8118;24jun2009;24jun2009;Pancreas;No;;Yes;No;No;Smoker;No;No;No;No;No;Other;30;Strongly Positive;Strongly Positive;Pos. > Liver;Yes;Yes;No;No;No;WHO 1;No;No;20;No;;No
+02may1926;Female;8119;20oct2009;20oct2009;Pancreas;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;Small Cell Carcinoma;20;Strongly Positive;Strongly Positive;Pos. > Liver;Yes;Yes;No;No;No;WHO 1;No;No;22;No;;No
+14mar1959;Male;8120;14dec2010;14dec2010;Pancreas;Yes;07sep2011;Yes;Yes;No;Smoker;No;No;No;No;No;NA (Not Applicable);59;Strongly Positive;Partly Positive;Negative;Yes;Yes;No;No;No;WHO 0;No;No;25;No;;No
+25feb1953;Female;8121;14apr2010;14apr2010;Esofagus;No;;Yes;No;No;Smoker;No;No;No;No;No;Other;50;Negative;Negative;Not Done;Yes;No;Yes;No;No;WHO 0;No;No;19;No;;No
+11may1942;Male;8123;11feb2010;11feb2010;Pancreas;No;;Yes;No;No;Ex-Smoker;No;No;No;No;No;Small Cell Carcinoma;70;Negative;Partly Positive;Not Done;Missing/NA;Yes;Yes;Yes;Yes;WHO 1;Yes;Yes;22;No;;No
+27apr1947;Male;8124;10nov2012;10nov2012;Colon;Yes;10nov2012;Yes;No;No;Ex-Smoker;No;No;No;No;No;Other;70;Strongly Positive;Strongly Positive;Not Done;Yes;Yes;No;No;No;WHO 1;No;No;30;No;;No
+03aug1949;Male;8125;17nov2011;17nov2011;Esofagus;No;;Yes;No;No;Smoker;No;No;No;No;No;Small Cell Carcinoma;100;Strongly Positive;Strongly Positive;Not Done;Yes;No;Yes;No;No;WHO 1;No;No;18;No;;No
+10dec1940;Male;8126;01dec2011;01dec2011;Colon;Yes;01nov2012;Yes;No;No;Ex-Smoker;No;No;No;No;No;Large Cell Carcinoma;80;Negative;Strongly Positive;Not Done;Yes;Yes;No;No;No;WHO 0;No;No;30;No;;No
+27oct1930;Female;8127;06oct2011;06oct2011;Unknown;No;;Yes;No;No;Ex-Smoker;No;No;No;No;No;Other;27;Strongly Positive;Strongly Positive;Not Done;Yes;No;No;No;No;WHO 2;No;No;23;No;;No
+08may1940;Male;8128;01aug2011;14mar2012;Colon;Yes;22aug2011;Yes;Yes;No;Non-Smoker;No;No;No;No;No;NA (Not Applicable);71;Partly Positive;Strongly Positive;Pos. < Liver;Yes;Yes;No;No;No;WHO 0;No;No;30;No;;No
+08aug1942;Female;8129;15nov2011;15nov2011;Unknown;No;;Yes;No;No;Smoker;No;No;No;No;No;Other;60;Strongly Positive;Strongly Positive;Pos. > Liver;Yes;Yes;No;Yes;No;WHO 1;No;No;21;No;;No
+17nov1940;Male;8130;24mar2011;24mar2011;Pancreas;No;;Yes;No;No;Unknown;No;No;Yes;No;No;Other;50;Strongly Positive;Strongly Positive;Not Done;Missing/NA;Yes;No;No;No;WHO 1;No;No;23;No;;No
+16jan1961;Male;8131;07jun2011;07jun2011;Pancreas;No;;Yes;No;No;Missing/NA;No;No;Missing/NA;No;No;NA (Not Applicable);30;Strongly Positive;Strongly Positive;Negative;No;Yes;No;No;No;WHO 2;No;No;27;No;;No
+17mar1940;Female;8132;31dec2012;31dec2012;Gastric;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;NA (Not Applicable);61;Strongly Positive;Strongly Positive;Not Done;Yes;Yes;No;No;No;WHO 2;No;No;33;No;;No
+21mar1937;Female;8133;24sep2012;24sep2012;Unknown;No;;Yes;No;No;Smoker;No;No;No;No;No;Other;75;Strongly Positive;Strongly Positive;Pos. < Liver;Yes;Yes;No;No;No;WHO 1;No;No;25;No;;No
+01feb1966;Female;8134;18apr2012;18apr2012;Unknown;No;;Yes;No;No;Smoker;No;No;No;No;No;Other;80;Not Done;Strongly Positive;Not Done;Yes;Yes;No;Yes;Yes;WHO 1;No;No;26;No;;No
+13apr1946;Male;8135;05oct2012;05oct2012;Colon;Yes;05oct2012;Yes;No;No;Non-Smoker;No;No;No;No;No;Large Cell Carcinoma;75;Strongly Positive;Strongly Positive;Not Done;Yes;Yes;Yes;No;No;WHO 0;No;No;27;No;;No
+17apr1953;Female;8136;17sep2012;05nov2012;Colon;Yes;17sep2012;Yes;No;No;Non-Smoker;No;No;No;No;No;Other;60;Negative;Strongly Positive;Negative;Yes;Yes;No;No;No;WHO 0;No;No;32;No;;No
+11jan1941;Male;8137;28nov2012;28nov2012;Pancreas;No;;Yes;No;No;Missing/NA;No;No;Yes;No;No;Other;65;Partly Positive;Strongly Positive;Missing/NA;Yes;Yes;No;No;No;WHO 0;No;No;23;No;;No
+18apr1960;Female;8138;21dec2012;21dec2012;Pancreas;No;;Yes;No;No;Non-Smoker;No;No;No;No;No;Other;60;Strongly Positive;Negative;Not Done;Yes;Yes;Yes;No;No;WHO 3;No;No;24;No;;No
+01sep1956;Female;8139;09oct2012;12nov2015;Rectum;Yes;12feb2013;Yes;Yes;No;Smoker;No;No;No;No;No;Small Cell Carcinoma;90;Negative;Strongly Positive;Not Done;Yes;No;No;No;No;WHO 1;No;No;26;No;;No
+14jun1953;Male;8140;28feb2012;28feb2012;Esofagus;No;;Yes;No;No;Unknown;No;No;No;No;No;Large Cell Carcinoma;63;Negative;Strongly Positive;Not Done;Yes;Yes;Yes;Yes;No;WHO 1;No;No;23;No;;No
+05feb1960;Female;8141;18mar2010;18mar2010;Pancreas;No;;Yes;No;No;Ex-Smoker;No;No;No;No;No;Small Cell Carcinoma;80;Not Done;Strongly Positive;Not Done;Yes;Yes;No;No;No;WHO 2;No;No;24;No;;No
+24apr1945;Female;8142;19mar2010;19mar2010;Other;Yes;05jul2010;Yes;No;No;Non-Smoker;No;No;Yes;No;No;Other;25;Strongly Positive;Strongly Positive;Not Done;Yes;Yes;No;No;No;WHO 0;No;No;24;No;;No
+05oct1944;Male;8143;30mar2010;30mar2010;Unknown;No;;Yes;No;No;Unknown;No;No;No;No;No;Small Cell Carcinoma;30;Strongly Positive;Negative;Pos. < Liver;Yes;Yes;Yes;No;No;WHO 0;No;No;35;No;;No
+08may1931;Male;8501;12jul2010;30aug2010;Pancreas;Yes;30aug2010;Yes;No;No;Non-Smoker;No;No;No;No;No;Small Cell Carcinoma;100;Strongly Positive;Negative;Not Done;Yes;Yes;No;No;No;WHO 2;No;No;22;No;;No
+26dec1959;Male;8502;13mar2010;13mar2010;Pancreas;Yes;21apr2010;Yes;No;No;Non-Smoker;No;No;No;No;No;Large Cell Carcinoma;80;Strongly Positive;Strongly Positive;Not Done;Yes;Yes;No;No;No;WHO 1;No;No;27;No;;No
+11dec1970;Male;8503;08sep2012;10apr2013;Pancreas;Yes;17oct2012;Yes;No;No;Smoker;No;No;Yes;No;No;Large Cell Carcinoma;79;Strongly Positive;Strongly Positive;Not Done;Yes;No;Yes;No;No;WHO 1;No;No;29;No;;No
+19nov1982;Male;8505;15jun2012;15jun2012;Pancreas;Yes;16jan2013;No;Yes;No;Non-Smoker;No;Yes;Yes;No;No;Small Cell Carcinoma;38;Strongly Positive;Strongly Positive;Negative;Yes;Yes;Yes;No;No;WHO 1;No;No;23;Yes;19jun2012;No
+16sep1954;Male;8506;22dec2011;22dec2011;Pancreas;Yes;31jan2012;Yes;Yes;No;Ex-Smoker;No;No;No;No;No;Large Cell Carcinoma;30;Strongly Positive;Strongly Positive;Not Done;Yes;Yes;No;No;No;WHO 1;No;No;25;No;;No
+15feb1969;Male;8507;22aug2007;22aug2007;Pancreas;Yes;18dec2007;No;Yes;No;Unknown;No;No;No;No;Yes;Small Cell Carcinoma;70;Strongly Positive;Strongly Positive;Pos. > Liver;Yes;Yes;No;No;No;WHO 0;No;No;26;No;;No
