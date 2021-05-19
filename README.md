@@ -17,3 +17,25 @@ Gastrointestinal neuroendocrine tumours (NETs) are slow-growing tumours. In this
  <p> In the last step, multi block method of ROSA (Response Oriented Sequential Alter- nation) was applied to analyse our dataset obtained from the last steps. Modelling our problem with ROSA, this method gave us an acceptable R2 of 74% on the cross validated data. ROSA also helped us ordering the features based on their importances.
 
 <h2>Repository Content</h2>
+
+
+The current directory consists of thesis and codes have been used in the it. The PDF format of the thesis can be found [here](https://github.com/gazelleazadi/Masters_Thesis/blob/main/Masteroppgave-Ghazal%20Azadi.pdf)
+
+
+
+Based on the information given in the abstract, the code is including 5 sections:
+* [Data Preprocessing](https://github.com/gazelleazadi/Masters_Thesis/blob/main/Data_preprocessing.ipynb)
+* [Feature selection - First approach](https://github.com/gazelleazadi/Masters_Thesis/blob/main/Feature_selection_The_first_approach.ipynb)
+* [Feature selection - Second approach](https://github.com/gazelleazadi/Masters_Thesis/blob/main/Feature_selection_The_second_approach.ipynb/)
+* [Feature selection - Third approach](https://github.com/gazelleazadi/Masters_Thesis/blob/main/Feature_selection_The_third_approach.ipynb/)
+* [Multi block model](https://github.com/gazelleazadi/Masters_Thesis/blob/main/multi-block.R/)
+
+
+
+<h3>Data file</h3>
+
+[Data file](https://github.com/gazelleazadi/Masters_Thesis/tree/main/CSV%20and%20PKL%20files) consists of different pickle and CSV files.
+
+Data preprocessing notebook aims to build three files of X, X2 and y. These three files are the foundation of our work and include the first, second and target block respectively. We use these three pickle files in our first approach of feature selection. X_new, X_2_new and y_new are three files which have been created after adding two features of RESPONS1 and TIMETOTRM1. They will be used in the thrid appraoch of feature selection.
+
+Three CSV files of block1, block2, target_box are files must be used in R file of [multi block analysis](https://github.com/gazelleazadi/Masters_Thesis/blob/main/multi-block.R).
